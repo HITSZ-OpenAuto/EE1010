@@ -20,6 +20,9 @@
     - [Verilog 教程1](https://www.runoob.com/w3cnote/verilog-tutorial.html)
 - 实验报告在Easy云课堂（微信小程序或[网页端](https://www.easyketang.com/)网上提交），无需提交纸质版。电脑版建议使用[网页端](https://www.easyketang.com/)。
 
+> <i>by @[psp_dada](https://github.com/pspdada)</i>
+- 2024 春的数电实验在上课前已经不需要打印纸质版预习题，但仍需在 Easy 云课堂上完成预习题后方可看到当次实验的具体内容（实验任务、指导书、教学视频等）
+
 ## 成绩构成
-- 分数构成：纸质版预习题 + 按时完成实验（不按时完成，则适当扣分）+ 报告分数
+- 分数构成：预习题 + 按时完成实验（不按时完成，则适当扣分）+ 报告分数
 - 没有考试
