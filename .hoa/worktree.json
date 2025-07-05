@@ -1,0 +1,197 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2658,
+    "time": 1751724551,
+    "hash": "49249027c4ea145daac992014a7aede047d7e4aa"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713083274,
+    "hash": "a6755a1483d36ad7856af94df253064f41d083ed"
+  },
+  "README.md": {
+    "size": 2476,
+    "time": 1720886700,
+    "hash": "d797c12c8ab817b8b359c78623c1927c8f8e98a7"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737538440,
+    "hash": "a480ae221ba8eb86cb0ffb0cae7c9889057dca28"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737538440,
+    "hash": "a480ae221ba8eb86cb0ffb0cae7c9889057dca28"
+  },
+  "labs/PSP_2024/Lab2/code/3to8_decoder/constrs_1/new/3to8.xdc": {
+    "size": 1289,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/Lab2/code/3to8_decoder/sim_1/new/3to8_tb.v": {
+    "size": 1077,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/Lab2/code/3to8_decoder/sources_1/new/3to8.v": {
+    "size": 777,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/Lab2/code/priority_alarm/constrs_1/new/priority_alarm.xdc": {
+    "size": 770,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/Lab2/code/priority_alarm/sim_1/new/priority alarm_tb.v": {
+    "size": 943,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/Lab2/code/priority_alarm/sources_1/new/priority_alarm.v": {
+    "size": 314,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/Lab2/code/subtraction_operation_display/constrs_1/new/subtraction_diplay.xdc": {
+    "size": 2779,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/Lab2/code/subtraction_operation_display/sim_1/new/subtraction_display_tb.v": {
+    "size": 926,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/Lab2/code/subtraction_operation_display/sources_1/new/subtraction_display.v": {
+    "size": 1702,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/Lab2/simulation_result/3to8 decoder si.png": {
+    "size": 48449,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/Lab2/simulation_result/priority alarm si.png": {
+    "size": 34746,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/Lab4/code/D_flip_flop/constrs_1/new/D_flip_flop.xdc": {
+    "size": 602,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/Lab4/code/D_flip_flop/sim_1/new/D_flip_flop_tb.v": {
+    "size": 647,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/Lab4/code/D_flip_flop/sources_1/new/D_flip_flop.v": {
+    "size": 292,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/Lab4/code/bin_to_dex_n_display/constrs_1/new/bin_to_dec.xdc": {
+    "size": 1309,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/Lab4/code/bin_to_dex_n_display/sim_1/new/bin_to_dec_tb.v": {
+    "size": 965,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/Lab4/code/bin_to_dex_n_display/sources_1/new/bin_to_dec.v": {
+    "size": 2047,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/Lab4/code/color_light_cycling_system/constrs_1/new/color_light_cycling.xdc": {
+    "size": 669,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/Lab4/code/color_light_cycling_system/sim_1/new/color_light_cycling_tb.v": {
+    "size": 965,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/Lab4/code/color_light_cycling_system/sources_1/new/color_light_cycling.v": {
+    "size": 1241,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/Lab4/simulation_result/si.png": {
+    "size": 27791,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/Lab5/code/colored_light_controller/constrs_1/colored_light_controller.xdc": {
+    "size": 1237,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/Lab5/code/colored_light_controller/sim_1/colored_light_controller_tb.v": {
+    "size": 781,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/Lab5/code/colored_light_controller/sources_1/state_src.v": {
+    "size": 2341,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/Lab5/code/colored_light_controller/sources_1/timer_src.v": {
+    "size": 474,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/Lab5/code/colored_light_controller/sources_1/vibdec_src.v": {
+    "size": 448,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/Lab6/仿真数据记录.xlsx": {
+    "size": 10841,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/PSP_2024/README.md": {
+    "size": 565,
+    "time": 1720874458,
+    "hash": "58544842ce371ce7339e7f1d2940ac2e8c53b56f"
+  },
+  "labs/README.md": {
+    "size": 28,
+    "time": 1701183357,
+    "hash": "29e095093dc26c783f65d69c94043ca3e92f1913"
+  },
+  "labs/数电实验报告_2023春_适用Easy云课堂平台.zip": {
+    "size": 5174484,
+    "time": 1718809823,
+    "hash": "372ab745496928d446304fb6cc10ff6ca86e5f08"
+  },
+  "materials/.gitkeep": {
+    "size": 0,
+    "time": 1737538440,
+    "hash": "a480ae221ba8eb86cb0ffb0cae7c9889057dca28"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1737538440,
+    "hash": "a480ae221ba8eb86cb0ffb0cae7c9889057dca28"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1737538440,
+    "hash": "a480ae221ba8eb86cb0ffb0cae7c9889057dca28"
+  },
+  "tag.txt": {
+    "size": 205,
+    "time": 1734931362,
+    "hash": "4eb7b6267f76c3ca23fc8bbaba85c186f9458951"
+  }
+}
