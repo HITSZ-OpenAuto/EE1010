@@ -1,0 +1,206 @@
+ID: "EE1010"
+SimilarID: []
+Name: "数字电子技术实验"
+CourseProperty:
+  - Year: "2019_2020"
+    Major:
+      - Name: ["电信", "自动化", "电气"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "EE1010"
+    CourseName: "数字电子技术实验"
+    Credit: "1.0"
+    CourseHour: "24.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "预习题"
+        Percentage: ""
+      - Name: "按时完成实验"
+        Percentage: ""
+      - Name: "报告分数"
+        Percentage: ""
+    CourseHourComposition:
+      - Name: "实验"
+        Hour: "24"
+
+  - Year: "2020_2021"
+    Major:
+      - Name: ["通信", "自动化", "电气", "通信（第二学位）"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "EE1010"
+    CourseName: "数字电子技术实验"
+    Credit: "1.0"
+    CourseHour: "24.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "预习题"
+        Percentage: ""
+      - Name: "按时完成实验"
+        Percentage: ""
+      - Name: "报告分数"
+        Percentage: ""
+    CourseHourComposition:
+      - Name: "实验"
+        Hour: "24"
+
+  - Year: "2021_2022"
+    Major:
+      - Name: ["通信", "自动化", "通信（第二学位）", "电气"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "EE1010"
+    CourseName: "数字电子技术实验"
+    Credit: "1.0"
+    CourseHour: "24.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "预习题"
+        Percentage: ""
+      - Name: "按时完成实验"
+        Percentage: ""
+      - Name: "报告分数"
+        Percentage: ""
+    CourseHourComposition:
+      - Name: "实验"
+        Hour: "24"
+
+  - Year: "2022_2023"
+    Major:
+      - Name: ["通信", "光电", "自动化", "通信（第二学位）", "电气"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "EE1010"
+    CourseName: "数字电子技术实验"
+    Credit: "1.0"
+    CourseHour: "24.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "预习题"
+        Percentage: ""
+      - Name: "按时完成实验"
+        Percentage: ""
+      - Name: "报告分数"
+        Percentage: ""
+    CourseHourComposition:
+      - Name: "实验"
+        Hour: "24"
+
+  - Year: "2023_2024"
+    Major:
+      - Name: ["光电", "通信", "自动化", "电气"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "EE1010"
+    CourseName: "数字电子技术实验"
+    Credit: "1.0"
+    CourseHour: "24.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "预习题"
+        Percentage: ""
+      - Name: "按时完成实验"
+        Percentage: ""
+      - Name: "报告分数"
+        Percentage: ""
+    CourseHourComposition:
+      - Name: "实验"
+        Hour: "24"
+
+  - Year: "2024_2025"
+    Major:
+      - Name: ["光电", "通信"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "EE1010"
+    CourseName: "数字电子技术实验"
+    Credit: "1.0"
+    CourseHour: "24.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "预习题"
+        Percentage: ""
+      - Name: "按时完成实验"
+        Percentage: ""
+      - Name: "报告分数"
+        Percentage: ""
+    CourseHourComposition:
+      - Name: "实验"
+        Hour: "24"
+
+  - Year: "2025_2026"
+    Major:
+      - Name: []
+        Degree: "本"
+    GradeSemesters:
+      - Grade: ""
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "EE1010"
+    CourseName: "数字电子技术实验"
+    Credit: "1.0"
+    CourseHour: "24.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "预习题"
+        Percentage: ""
+      - Name: "按时完成实验"
+        Percentage: ""
+      - Name: "报告分数"
+        Percentage: ""
+    CourseHourComposition:
+      - Name: "实验"
+        Hour: "24"
