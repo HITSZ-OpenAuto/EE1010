@@ -1,7 +1,6 @@
 course_name = "数字电子技术实验"
-repo_type = "normal"
 course_code = "EE1010"
-
+repo_type = "normal"
 description = """
 本课程为考查课，无期末考试。
 六次实验，每次实验是 4 学时，任务量比较大，建议提前预习。
@@ -15,7 +14,6 @@ content = """
 - [Verilog 教程 (菜鸟教程)](https://www.runoob.com/w3cnote/verilog-tutorial.html)：推荐预习教程，软硬件结合实验必备。
 - [Easy 云课堂](https://www.easyketang.com/)：实验报告提交与预习平台。电脑版建议使用网页端。
 """
-
 
 [[sections]]
 title = "学习建议"
@@ -34,27 +32,17 @@ content = """
 [[sections.items]]
 content = "对于软硬件结合的实验（利用 Verilog 语言 + FPGA 实现逻辑电路），由于课上能学习 Verilog 的时间很少（基本都要用来完成任务），讲解的 Verilog 语法也很有限，大家在上数字电子技术实验有关 Verilog 的内容前，务必认真预习！"
 
-
 [[sections]]
 title = "课程安排"
 
 [[sections.items]]
 content = "六次实验，每次实验是 4 学时，任务量比较大。"
 
-
 [[sections]]
 title = "相关链接"
 
 [[sections.items]]
 content = "- https://github.com/MaxwellJay256/FPGALab_2024"
-
-
-[[sections]]
-title = "授课教师"
-
-[[sections.items]]
-content = "实验中心教师+（部分班级）理论课教师+二名本科生助教。"
-
 
 [[sections]]
 title = "预习与提交要求"
