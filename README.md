@@ -1,9 +1,5 @@
 # EE1010 - 数字电子技术实验
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![预习题 + 按时完成实验（不按时完成，则适当扣分）+ 报告分数](https://img.shields.io/badge/预习题%20+%20按时完成实验（不按时完成，则适当扣分）+%20报告分数--wheat)
 
 本课程为考查课，无期末考试。
 六次实验，每次实验是 4 学时，任务量比较大，建议提前预习。
